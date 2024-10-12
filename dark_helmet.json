@@ -3,8 +3,9 @@
     "wake_word": "Dark Helmet",
     "author": "Allan Clements",
     "website": "https://github.com/criminosis/custom_ha_voice_wake_words",
-    "model": "ha_voice_wake_words/dark_helmet.tflite",
-    "version": 1,
+    "model": "/root/homeassistant/esphome/ha_voice_wake_words/dark_helmet.tflite",
+    "version": 2,
+    "trained_languages": ["en"],
     "micro": {
       "probability_cutoff": 0.5,
       "sliding_window_average_size": 10
