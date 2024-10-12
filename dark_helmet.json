@@ -3,7 +3,7 @@
     "wake_word": "Dark Helmet",
     "author": "Allan Clements",
     "website": "https://github.com/criminosis/custom_ha_voice_wake_words",
-    "model": "https://github.com/criminosis/custom_ha_voice_wake_words/raw/refs/heads/main/dark_helmet.tflite",
+    "model": "ha_voice_wake_words/dark_helmet.tflite",
     "version": 1,
     "micro": {
       "probability_cutoff": 0.5,
